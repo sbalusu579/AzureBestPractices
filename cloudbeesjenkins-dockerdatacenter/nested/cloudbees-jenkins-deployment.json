@@ -424,7 +424,7 @@
           "properties": {
             "publisher": "Microsoft.Azure.Extensions",
             "type": "CustomScript",
-            "version": "2.0",
+            "typeHandlerVersion": "2.0",
             "autoUpgradeMinorVersion": true,
             "settings": {
               "fileUris": [
@@ -556,7 +556,7 @@
           "properties": {
             "publisher": "Microsoft.Azure.Extensions",
             "type": "CustomScript",
-            "version": "2.0",
+            "typeHandlerVersion": "2.0",
             "autoUpgradeMinorVersion": true,
             "settings": {
               "fileUris": [
